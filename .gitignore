@@ -1,4 +1,5 @@
 #replit
+main-debug.*
 .replit
 .breakpoints
 Makefile
